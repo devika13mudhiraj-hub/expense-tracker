@@ -3,6 +3,9 @@
 **ExpenseFlow** is a modern, feature-rich web application designed to help users take control of their personal finances. With a focus on privacy, simplicity, and proactive alerts, ExpenseFlow makes tracking expenses, managing budgets, and planning for the future effortless.
 
 ---
+**LIVE DEPLOYED**
+https://expense-tracker-finance.up.railway.app 
+PROJECT IS NOW LIVE!!
 
 ## 🚀 Key Features
 
